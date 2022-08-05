@@ -1,0 +1,18 @@
+body {
+    background-color: #1663d5;
+}
+#logo{
+    width: 50%;
+}
+#footer-container{
+    text-align:center;
+    margin: 0 0;
+    position: absolute;
+    bottom:50px;
+    width: 98%;
+}
+#footer{
+    margin: 0 0;
+    width: 50%;
+    bottom:50px;
+}
